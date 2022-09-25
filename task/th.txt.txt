@@ -1,0 +1,19 @@
+3 subject 
+
+total
+
+per
+
+if > 70
+	collage
+	80>
+	 IIT
+
+
+-----------------------
+if bw 80 to 90 Grade A
+if bw 60 to 79 Grade B
+if bw 50 To 59 Grade C
+below FAIL
+
+
