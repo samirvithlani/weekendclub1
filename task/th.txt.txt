@@ -15,5 +15,29 @@ if bw 80 to 90 Grade A
 if bw 60 to 79 Grade B
 if bw 50 To 59 Grade C
 below FAIL
+--------------------------
+
+Bank system
+press 1 for open ac
+
+	pls enter opbal --> 10000>=
+
+press 2 for withdraw
+
+	pls enter amount with --> 2000  13000	
+press 3 for deposit
+
+
+	pls enter amount 5000 net bal == 15000
+
+press 4 for exit --->
+
+
+
+
+
+
+
+
 
 
