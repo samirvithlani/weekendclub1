@@ -3,7 +3,7 @@
 void main(){
 
     FILE *fp;
-    fp = fopen("C:\\Users\\Samir\\Desktop\\desk\.txt","r");
+    fp = fopen("C:\\Users\\Samir\\Desktop\\desk.txt","r");
     if(fp==NULL){
         printf("File not found");
         
